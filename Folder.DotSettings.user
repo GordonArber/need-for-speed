@@ -1,0 +1,37 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a4d8073_002D1adb_002D4f5a_002D8db4_002Ddf93b3c8cd3c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="New_remote_control_car_has_not_driven_any_distance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.New_remote_control_car_has_not_driven_any_distance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94e9c0d2_002D193e_002D42f3_002Db21b_002Db8e53cc88b54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="New_remote_control_car_has_not_driven_any_distance #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.New_remote_control_car_has_not_driven_any_distance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_cannot_finish&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_just_cannot_finish&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_cannot_finish_test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c14453b0_002D4c6b_002D4ae5_002D90ed_002D0dcf74bfc15b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="New_remote_control_car_has_not_driven_any_distance #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.New_remote_control_car_has_not_driven_any_distance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc9636c7_002Dbc39_002D4b61_002Db4ec_002Da09609803f04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="New_remote_control_car_has_not_driven_any_distance #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.New_remote_control_car_has_not_driven_any_distance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Drive_increases_distance_driven_with_speed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Drive_does_not_increase_distance_driven_when_battery_drained&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.New_remote_control_car_battery_is_not_drained&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Drive_to_almost_drain_battery&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Drive_until_battery_is_drained&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Nitro_car_has_not_driven_any_distance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Nitro_car_has_battery_not_drained&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Nitro_car_has_correct_speed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RemoteControlCarTests.Nitro_car_has_correct_battery_drain&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_can_easily_finish&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_can_just_finish&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net5.0::RaceTrackTests.Car_can_finish_with_car_that_just_cannot_finish&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
